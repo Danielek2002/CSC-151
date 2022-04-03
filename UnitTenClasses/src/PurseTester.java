@@ -6,6 +6,8 @@ displays the amount of money in each purse
 asks the user for the pounds, shillings and pence sophie and sally (each) should spend
 displays the amount of money in each purse
  */
+
+// line here
 import java.util.*;
 public class PurseTester {
 
